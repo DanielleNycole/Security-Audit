@@ -3,7 +3,7 @@
 ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-I was tasked with taking a look at a toy business who's presence has increased. Due to the increase of traffic and infulx of customers, the head of the IT department decided it was a good time to perform an internal IT audit to secure the company's infrastructure and to mitgate potential risks threats, and vulnerabilities. The goal of this audit was to provide an overview of the risk the company might experience in efforts to present an expanstion of the IT department to senior leadership. 
+I was tasked with taking a look at a fictional toy business who's presence has increased. Due to the increase of traffic and infulx of customers, the head of the IT department decided it was a good time to perform an internal IT audit to secure the company's infrastructure and to mitgate potential risks threats, and vulnerabilities. The goal of this audit was to provide an overview of the risk the company might experience in efforts to present an expanstion of the IT department to senior leadership. 
 <br />
 
 

@@ -6,6 +6,11 @@
 I was tasked with taking a look at a fictional toy business who's presence has increased. Due to the increase of traffic and infulx of customers, the head of the IT department decided it was a good time to perform an internal IT audit to secure the company's infrastructure and to mitgate potential risks threats, and vulnerabilities. The goal of this audit was to provide an overview of the risk the company might experience in efforts to present an expanstion of the IT department to senior leadership. 
 <br />
 
+<h2>Points Considered</h2>
+
+- <b>The biggest risks to the organization</b> 
+- <b>Rank what controls should be implemented first to last</b>
+- <b>Ensure the company is still following guidelines and is within compliance </b>
 
 <h2>First Header</h2>
 
